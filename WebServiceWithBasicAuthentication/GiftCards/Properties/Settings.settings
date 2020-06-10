@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WSTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WSUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">usuario</Value>
+    </Setting>
+    <Setting Name="WSPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">clave</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
