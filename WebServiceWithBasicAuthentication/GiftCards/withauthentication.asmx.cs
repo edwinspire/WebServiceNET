@@ -48,6 +48,7 @@ namespace WSTest
 
 }
 
+// Esta clase se encarga de hacer la autenticación
 namespace WSTest.Modules { 
 
     public class BasicAuthHttpModule : IHttpModule
